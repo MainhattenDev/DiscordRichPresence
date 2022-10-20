@@ -2,7 +2,7 @@ Config = {}
 Translation = {}
 
 Config.ApplicationID = "YOUR_APPLICATION_ID" -- Enter your Discord Application ID --> https://discord.com/developers/applications/
-Config.UpdateTime = 60000 -- 60000 = 1 Minute -> Updates every Minute
+Config.UpdateTime = 5 -- 1 = 1 Second -> Updates every Second. Default is 60 Seconds
 Config.Locale = "en" -- Current translations: de, en
 Config.YourDisordServerLink = "YOUR_SERVER_LINK"
 
